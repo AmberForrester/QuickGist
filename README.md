@@ -14,9 +14,9 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 <a href="https://github.com/AmberForrester/QuickGist"><strong>Source Code »</strong></a>
 <br />
 <br />
-<a href="https://github.com/AmberForrester/Portfolio/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md">Report Bug</a>
+<a href="">Report Bug</a>
 .
-<a href="https://github.com/AmberForrester/Portfolio/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md">Request Feature</a>
+<a href="">Request Feature</a>
 </p>
 </div>
 
