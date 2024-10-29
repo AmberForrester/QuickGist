@@ -1,9 +1,42 @@
-# React + Vite
+<a id="readme-top"></a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">QuickGist | OpenAI Article Summarizer :mechanical_arm::brain:</h1> 
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-* [Tailwind CSS]()
+<img src="" alt="">
+
+<p align="center">QuickGist makes reading smarter and faster by delivering essential insights from lengthy articles. This open-source summarizer leverages AI to condense information into concise summaries, giving you the core takeaways at a glance. With QuickGist, deep-dive into knowledge or skim for key points effortlessly, keeping your reading efficient and impactful.
+<br />
+<br />
+
+<a href="https://github.com/AmberForrester/QuickGist"><strong>Source Code »</strong></a>
+<br />
+<br />
+<a href="https://github.com/AmberForrester/Portfolio/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md">Report Bug</a>
+.
+<a href="https://github.com/AmberForrester/Portfolio/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md">Request Feature</a>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* [Vite](https://vite.dev/guide/)
+* [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
+* [React Icons - Installation ](https://www.npmjs.com/package/react-icons)
+* [React Icons](https://react-icons.github.io/react-icons/)
+* [Redux Toolkit Store](https://redux-toolkit.js.org/api/configureStore)
+* [Rapid API](https://rapidapi.com/)
