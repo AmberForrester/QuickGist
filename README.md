@@ -6,7 +6,9 @@
 
 <img src="" alt="">
 
-<p align="center">QuickGist makes reading smarter and faster by delivering essential insights from lengthy articles. This open-source summarizer leverages AI to condense information into concise summaries, giving you the core takeaways at a glance.<br/>
+<p align="center">QuickGist makes reading smarter and faster by delivering essential insights from lengthy articles. This open-source summarizer leverages AI to condense information into concise summaries, giving you the core takeaways at a glance.
+<br/>
+<br/>
 With QuickGist, deep-dive into knowledge or skim for key points effortlessly, keeping your reading efficient and impactful.
 <br />
 <br />
