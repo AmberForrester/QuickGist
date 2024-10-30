@@ -29,7 +29,6 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
     <li><a href="#installation">Installation</a></li>
     <li><a href="#steps-to-install">Steps to Install</a></li>
     <li><a href="#how-to-run-the-application">How to Run the Application</a></li>
-    <li><a href="#how-the-test-works">How the Test Works</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
