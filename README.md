@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="" alt="">
+<img src="../QuickGist/src/assets/QuickGist.png" alt="Picture of QuickGist an open-source summarizer that converts lengthy articles into clear and concise insights.">
 
 <p align="center">QuickGist makes reading smarter and faster by delivering essential insights from lengthy articles. This open-source summarizer leverages AI to condense information into concise summaries, giving you the core takeaways at a glance.
 <br/>
