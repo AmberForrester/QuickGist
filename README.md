@@ -14,8 +14,11 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 <br />
 <a href="https://quickgist.amberforrester.io">QuickGist Live Link</a>
 <br />
+<br />
 
 <a href="https://github.com/AmberForrester/QuickGist"><strong>Source Code »</strong></a>
+<br />
+<br />
 <br />
 <br />
 <a href="https://github.com/AmberForrester/QuickGist/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md&title=">Report Bug</a>
