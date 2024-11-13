@@ -12,6 +12,8 @@
 With QuickGist, deep-dive into knowledge or skim for key points effortlessly, keeping your reading efficient and impactful.
 <br />
 <br />
+<a href="https://quickgist.amberforrester.io">QuickGist Live Link</a>
+<br />
 
 <a href="https://github.com/AmberForrester/QuickGist"><strong>Source Code »</strong></a>
 <br />
