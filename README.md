@@ -13,7 +13,7 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 <br />
 <br />
 
-<a href="https://quickgist.amberforrester.io">QuickGist Live Link »</a>
+<a href="https://quickgist.amberforrester.io">QuickGist Live Link</a>
 .
 <a href="https://github.com/AmberForrester/QuickGist"><strong>Source Code</strong></a>
 
@@ -48,8 +48,6 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 - **Quick Copy to Clipboard:** Copy summaries to your clipboard for sharing or storing, creating easily access to your summarized content.
 - **Delete Functionality:** Keep your history organized by deleting individual summaries with a single click, using an intuitive close icon.
 - **Optimized API Requests with RTK Query:** Leverage Redux Toolkit (RTK) Query for efficient, conditional API requests that only fire when needed, optimizing data retrieval and app performance.
-
-...and much more, including well structured code architecture and high resuability for seamless feature expansion! 
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
