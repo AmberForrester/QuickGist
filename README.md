@@ -14,11 +14,12 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 <br />
 
 <a href="https://quickgist.amberforrester.io">QuickGist Live Link</a>
-.
-<a href="https://github.com/AmberForrester/QuickGist"><strong>Source Code</strong></a>
+
 
 
 <br />
+<a href="https://github.com/AmberForrester/QuickGist">Source Code</a>
+.
 <a href="https://github.com/AmberForrester/QuickGist/issues/new?assignees=&labels=bug&projects=&template=bug-report-%F0%9F%90%9E.md&title=">Report Bug</a>
 .
 <a href="https://github.com/AmberForrester/QuickGist/issues/new?assignees=&labels=enhancement&projects=&template=feature-request-%F0%9F%9A%80.md&title=">Request Feature</a>
@@ -56,7 +57,7 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 ## Installation
 
 ### Prerequisites
-- [React](https://react.dev/learn/start-a-new-react-project).
+- [React](https://react.dev/learn/start-a-new-react-project)
 - [Vite](https://vite.dev/guide/)
 - [Redux Toolkit Store](https://redux-toolkit.js.org/api/configureStore)
 - [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
