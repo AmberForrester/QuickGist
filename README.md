@@ -166,6 +166,6 @@ Please take some time to check out the links below! I found value in each and ev
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
 
 > [!TIP]
-> Deploy your Next.js application using the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
+> Supercharge your deployment process with the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
