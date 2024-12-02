@@ -56,11 +56,11 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 ## Installation
 
 ### Prerequisites
-- **React.js:** [React](https://react.dev/learn/start-a-new-react-project).
-- **Vite:** [Vite](https://vite.dev/guide/)
-- **Redux Toolkit:** [Redux Toolkit Store](https://redux-toolkit.js.org/api/configureStore)
-- **Tailwind CSS:** [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
-- **Rapid API Account:** [Rapid API](https://rapidapi.com/) Create an account to receive your Rapid API Key needed for this project.
+- [React](https://react.dev/learn/start-a-new-react-project).
+- [Vite](https://vite.dev/guide/)
+- [Redux Toolkit Store](https://redux-toolkit.js.org/api/configureStore)
+- [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
+- [Rapid API](https://rapidapi.com/)
 
 
 
@@ -163,5 +163,8 @@ Please take some time to check out the links below! I found value in each and ev
 * [Formatting Syntax: GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animal-bug)
+
+> [!TIP]
+> Deploy your Next.js application using the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
