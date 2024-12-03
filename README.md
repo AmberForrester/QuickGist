@@ -59,6 +59,7 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 ### Prerequisites
 - [React](https://react.dev/learn/start-a-new-react-project)
 - [Vite](https://vite.dev/guide/)
+- [OpenAI](https://platform.openai.com/docs/api-reference/introduction)
 - [Redux Toolkit Store](https://redux-toolkit.js.org/api/configureStore)
 - [Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
 - [Rapid API](https://rapidapi.com/)
