@@ -43,12 +43,12 @@ With QuickGist, deep-dive into knowledge or skim for key points effortlessly, ke
 
 
 ## Features
-- **Modern User Interface:** Enjoy a sleek and intuitive design that prioritizes user experience, making navigation and interaction seamless.
-- **AI-Powered Summary Generation:** Quickly summarize lengthy articles by simply pasting the URL. The app uses OpenAI's GPT-4 to generate concise, insightful summaries that capture the essence of the content.
-- **Local History Management:** Automatically saves summaries in your local storage, allowing you to access and manage your reading history effortlessly. 
-- **Quick Copy to Clipboard:** Copy summaries to your clipboard for sharing or storing, creating easily access to your summarized content.
-- **Delete Functionality:** Keep your history organized by deleting individual summaries with a single click, using an intuitive close icon.
-- **Optimized API Requests with RTK Query:** Leverage Redux Toolkit (RTK) Query for efficient, conditional API requests that only fire when needed, optimizing data retrieval and app performance.
+- **Modern and Intuitive UI:** Designed a sleek, user-friendly interface with Tailwind CSS, ensuring seamless navigation and interaction for all users.
+- **AI-Powered Article Summarization:** Leveraged OpenAI's GPT-4 to generate concise, insightful summaries from lengthy articles, enabling quick and efficient content consumption.
+- **Local Storage Integration:** Implemented automatic saving of summaries to local storage, allowing users to effortlessly manage and revisit their reading history.
+- **Effortless Clipboard Functionality:** Enabled quick copying of generated summaries to the clipboard for easy sharing and storage.
+- **Customizable History Management:** Added an intuitive delete feature, allowing users to keep their summary history organized with a single click.
+- **Optimized API Performance:** Utilized Redux Toolkit Query for efficient, conditional API requests, enhancing app performance and reducing unnecessary data fetching.
 
 <p align="right">(<a href="#readme-top">top of page</a>)</p>
 
